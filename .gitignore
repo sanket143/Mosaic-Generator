@@ -1,0 +1,5 @@
+output
+mosaic.pdf
+*.tex
+*.aux
+*.log
